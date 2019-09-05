@@ -1,6 +1,6 @@
-### xyz studio dark-style
+### xyz studio miami day map
 
-View the [xyz studio dark-style map](https://sensescape.github.io/xyz-studio-dark/).
+View the [xyz studio miami day map](https://sensescape.github.io/xyz-studio-miami-day/#12/37.7823/-122.4274).
 
 [https://explore.xyz.here.com](https://explore.xyz.here.com)
 
