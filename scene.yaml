@@ -269,6 +269,14 @@ layers:
                 polygons:
                     color: [0.596,0.788,0.898]
 
+        playas:
+            filter: { kind: playa }
+            draw:
+                polygons:
+                    visible: true
+                    order: global.feature_order
+                    color: [0.931,0.945,0.950]
+
     roads:
         data: { source: mapzen, layer: roads }
         draw:
